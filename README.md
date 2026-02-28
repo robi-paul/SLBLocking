@@ -1,8 +1,8 @@
 # SLBLocking: Localization of Optical Side-Channel Leakage in Logic-Locked Integrated Circuits through Structure-based Learning
 
 
-# Project details and instructions
-## Requirements
+## Project details and instructions
+### Requirements
 These libraries are not necessarily the only versions that would work properly. They are, however, the versions used to obtain the recorded results included as a reference.
 - Python = 3.7.9
 - torch = 1.13.1
