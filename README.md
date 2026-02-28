@@ -13,3 +13,11 @@ These libraries are not necessarily the only versions that would work properly. 
 - pandas = 1.3.5
 - openpyxl = 3.1.2
 - joblib = 1.2.0
+
+### Datasets
+data_total_xor4k - training dataset utilized to train the best models.
+- `CLAP_set` -> benchmark circuits set [1] with features and ground truth files for resolution 2, 4 in folder `CLAP_set/g2_gt`, `CLAP_set/g4_gt` respectively.
+- `SAT_set` -> benchmark circuits set [1] with features and ground truth files for resolution 2, 4 in folder `SAT_set/g2_gt`, `SAT_set/g4_gt` respectively.
+- `Unseen_set` -> circuits set with unseen topologies, features and ground truth files for resolution 2 included in folder `test_comprehensive/g2_gt`.
+- `test_comprehensive` -> A comprehensive test set combining all the sets above, features and ground truth files for resolution 2 included in folder `test_comprehensive/g2_gt`.
+
