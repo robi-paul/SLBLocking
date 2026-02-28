@@ -1,3 +1,5 @@
+# SLBLocking: Localization of Optical Side-Channel Leakage in Logic-Locked Integrated Circuits through Structure-based Learning
+
 
 # Project details and instructions
 ## Requirements
